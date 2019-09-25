@@ -1,1 +1,171 @@
-rtmp://sg.castr.io/static/84389820a30b11e9a01a1f657ef1d674
+EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/0/05/ANF_evo_id_logo.png/revision/latest?cb=20190922064908" group-title="LIVE TV",ANF STUDIO
+rtmp://sg.castr.io/static/66a882c0bf7111e9a5e89fe9b3b6f762
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/d/d3/RAJA_CHANNEL.png/revision/latest?cb=20190910032157" group-title="LIVE TV",RAJA CHANNEL
+http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
+ 
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d7/TV_1%28Malaysia%29baru.png" group-title="Malaysia",TV1(FTA)
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="Malaysia",TV2(FTA)
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Malaysia",OKEY(FTA)
+http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/1news_RTM.png" group-title="News",RTM SALURAN BERITA(FTA)
+http://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Bernama_News_Channel_Logo.png" group-title="News",BERNAMA TV(FTA)
+http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m02000000000012087578&ct=17975&tsum=73be977f4f0798142ff736e6f09da82d
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport",RTM SPORTS(FTA)
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/b/b7/MSuria_logo.jpg/revision/latest?cb=20190910031611" group-title="SINGAPORE",SURIA(FTA)
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="SINGAPORE",CHANNEL 5(FTA)
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://video.toggle.sg/image/5307980/16x9/947/533/dbbd7193329f507087f2602c392e5fa6/BD/okto.png" group-title="SINGAPORE",CHANNEL 8(FTA)
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="Singapore" group-title="SINGAPORE",CHANNEL U(FTA)
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="SINGAPORE",VASANTHAM(FTA)
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentary",NAT GEO PEOPLE(FTA)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Retro_Television_Network.png" group-title="Documentary",RETRO TV(FTA)
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/3/34/First_media.png/revision/latest?cb=20190925090224" group-title="Indonesia",FIRST MEDIA
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="Indonesia",SCTV(FTA)
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Indonesia",INDOSIAR(FTA)
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="Indonesia",TRANSTV(FTA)
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/70/Trans_7.png" group-title="Indonesia",TRANS 7(FTA)
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/d/d6/FOODIE.png/revision/latest?cb=20190925085713" group-title="Indonesia",FOODIE(FTA)
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/7c/Netmediatama.png" group-title="Indonesia",NET TV(FTA)
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/8/8a/An.png/revision/latest?cb=20190910031516" group-title="Indonesia",ANTV(FTA)
+http://202.80.222.171/000001/2/ch14061215034900095272/1002.m3u8?IASHttpSessionId=OTT2832620180822024844000001&ztecid=ch14061215034900095272&bandwidth=695657&ispcode=1&timeformat=local&channel=ch14061215034900095272&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMjIvNTEyLm0zdTg%3D&zte_bandwidth=1002&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="Indonesia",RTV(FTA)
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+
+
+
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="India",9X0(FTA)
+http://pockettv.xyz/api/zee.m3u8?c=9xo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="India",9XJALWA(FTA)
+http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="India",AAJ TAK(FTA)
+http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="India",ZEE CAFE(FTA)
+http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="India",ZEE ETC(FTA)
+http://pockettv.xyz/api/zee.m3u8?c=etc
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="India",ZEE WORLD(FTA)
+http://pockettv.xyz/api/zee.m3u8?c=world
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="India",B4U MUSIC(FTA)
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="India",B4U CINEMA(FTA)
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="India",&PRIVE(FTA)
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="India",SONY MAX 2(FTA)
+http://130.185.150.79:1935/trunk/ZEE-CINEMA/chunklist_w1024249255.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="Korea",ARIRANG(FTA)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+ 
+
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/f/fe/NIHON_EIGA_ppl.png/revision/latest?cb=20190910031432" group-title="Japan",NIHON EIGA(FTA)
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=866683157
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/BS_Japan_logo.png" group-title="Japan",BS JAPAN(FTA)
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=184085698
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/1/14/NHKk.png/revision/latest?cb=20190910031306" group-title="Japan",NHK WORLD(FTA)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_ma_s.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Makkah_Montage.jpg" group-title="Muslim",TANAH SUCI MEKAH(FTA)
+http://m.live.net.sa:1935/live/quran/chunklist_w979893020.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Jannat.ul.Baqi_-_Madina_-_panoramio.jpg" group-title="Muslim",MADINAH AL-MUNAWARAH(FTA)
+http://m.live.net.sa:1935/live/sunnah/chunklist_w226868815.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Thailand_map-icon.png" group-title="Thai",PPTV(FTA)
+http://183.182.100.184/live/pptvthai/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Thailand_map-icon.png" group-title="Thai",ThaiONE(FTA)
+http://183.182.100.184/live/onehd/chunklist.m3u8
+
+
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/6/69/India_bet.png/revision/latest?cb=20190910030524" group-title="Radio",India Beat(RADIO)
+http://astro4.rastream.com/india
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/e/e9/THR-Geg.png/revision/latest?cb=20190910030618" group-title="Radio",Gegar fm(RADIO)
+http://astro3.rastream.com/gegar
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FA_Suria_Logo_square-01.png" group-title="Radio",Suria fm(RADIO)
+http://starrfm.rastream.com/starrfm-suria.android
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sinar_%28Malaysian_radio_station%29_logo.png" group-title="Radio",Sinar fm(RADIO)
+http://astro2.rastream.com/sinar
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/8/8e/ZA.png/revision/latest?cb=20190910030710" group-title="Radio",Zayan(RADIO)
+http://astro3.rastream.com/astro-zayan?authtoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJvaWQiOiJ6YXlhbiIsImlhdCI6MTU1MjA4NTg2NCwiZXhwIjoxNTgzNzA4MjY0fQ.76Kv-WXlMDswSzV08dDC2rNy3vgQiM9I82tQK5qwLCc
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/f/f3/ERA.png/revision/latest?cb=20190910024703" group-title="Radio",Era fm(RADIO)
+http://astro2.rastream.com/era
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/e/eb/BAPAKKU.png/revision/latest?cb=20190910030802" group-title="Radio",Bapakku fm(RADIO)
+http://radio.bapakku.fm:8000/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/e/ea/HITZ.png/revision/latest?cb=20190910030847" group-title="Radio",Hitz fm(RADIO)
+http://astro1.rastream.com/hitz
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/MIXFM.png" group-title="Radio",Mix fm(RADIO)
+http://astro2.rastream.com/mix
