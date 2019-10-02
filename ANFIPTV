@@ -45,6 +45,9 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="SINGAPORE",VASANTHAM(FTA)
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="Travel",STAR WORLD(FTA)
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentary",NAT GEO PEOPLE(FTA)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
@@ -88,7 +91,6 @@ http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/d/d4/DISNEY_JUNIOR_OK.png/revision/latest?cb=20191001174444" group-title="Cartoon",DISNEY JUNIOR(Indonesia)
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/9/91/BABY_FIRST_OK.png/revision/latest?cb=20191001174802" group-title="Cartoon",BABY FIRST
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
