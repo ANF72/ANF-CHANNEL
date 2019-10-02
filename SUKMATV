@@ -27,3 +27,6 @@ http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/1news_RTM.png" group-title="News",RTM SALURAN BERITA(FTA)
 http://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FA_Suria_Logo_square-01.png" group-title="Radio",Suria fm(RADIO)
+http://starrfm.rastream.com/starrfm-suria.android
