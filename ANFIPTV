@@ -5,7 +5,7 @@ rtmp://sg.castr.io/static/66a882c0bf7111e9a5e89fe9b3b6f762
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/d/d3/RAJA_CHANNEL.png/revision/latest?cb=20190910032157" group-title="LIVE TV",RAJA CHANNEL
-http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
+http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
  
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d7/TV_1%28Malaysia%29baru.png" group-title="Malaysia",TV1(FTA)
