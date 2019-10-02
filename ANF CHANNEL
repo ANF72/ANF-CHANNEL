@@ -17,7 +17,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d7/TV_1%28Malaysia%29baru.png" group-title="Malaysia",TV1(FTA)
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
  
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="Malaysia",TV2XX(FTA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="Malaysia",TV2 AKULAH(FTA)
 http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 
 
