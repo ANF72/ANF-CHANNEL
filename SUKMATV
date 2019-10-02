@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/0/0f/LOGO_SUKMA_-_REAL.png/revision/latest?cb=20190927064453" group-title="LIVE TV",SUKMA TV INFO CHANNEL
+rtmp://sg.castr.io/static/66a882c0bf7111e9a5e89fe9b3b6f762
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/9/9c/MASKOT.png/revision/latest?cb=20190927064752" group-title="LIVE TV",TRACK & FIELDS CHANNEL
+rtmp://sg.castr.io/static/66a882c0bf7111e9a5e89fe9b3b6f762
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/9/9c/MASKOT.png/revision/latest?cb=20190927064752" group-title="LIVE TV",AQUATIC CHANNEL
+rtmp://sg.castr.io/static/96962050bd8211e98f8e33727935dd4e
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sport",RTM SPORTS(FTA)
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+ 
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/d7/TV_1%28Malaysia%29baru.png" group-title="Malaysia",TV1(FTA)
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="Malaysia",TV2(FTA)
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Malaysia",OKEY(FTA)
+http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/1news_RTM.png" group-title="News",RTM SALURAN BERITA(FTA)
+http://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
