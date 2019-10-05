@@ -60,7 +60,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e5/SCTV_Logo.png" group-title="Indonesia",SCTV(FTA)
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Indonesia",INDOSIAR(FTA)
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -68,8 +68,8 @@ http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="Indonesia",TRANSTV(FTA)
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/70/Trans_7.png" group-title="Indonesia",TRANS 7(FTA)
-http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/70/Trans_7.png" group-title="Indonesia",GTV(FTA)
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/d/d6/FOODIE.png/revision/latest?cb=20190925085713" group-title="Indonesia",FOODIE(FTA)
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
@@ -78,13 +78,13 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/8/8a/An.png/revision/latest?cb=20190910031516" group-title="Indonesia",ANTV(FTA)
-http://202.80.222.171/000001/2/ch14061215034900095272/1002.m3u8?IASHttpSessionId=OTT2832620180822024844000001&ztecid=ch14061215034900095272&bandwidth=695657&ispcode=1&timeformat=local&channel=ch14061215034900095272&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMjIvNTEyLm0zdTg%3D&zte_bandwidth=1002&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="Indonesia",RTV(FTA)
 http://202.80.222.170:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="Indonesia",MNC TV(FTA)
-http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/azanisarri/images/d/d4/DISNEY_JUNIOR_OK.png/revision/latest?cb=20191001174444" group-title="Cartoon",DISNEY JUNIOR(Indonesia)
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
